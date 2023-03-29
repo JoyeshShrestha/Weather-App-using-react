@@ -1,0 +1,75 @@
+body{
+    background: #51cab0;
+  background: linear-gradient(to right, #ffffff,#ffffff, #a5ebef);
+    margin: 5%;
+    font: 1rem montserrat;
+    background-repeat: fill;
+}
+
+.bigDay{
+    font-size:1.5rem;
+    font-weight: 200;
+    color: rgb(115, 115, 115);
+}
+
+.date{
+    font: 1rem Montserrat;
+    font-weight: 400;
+    color: rgb(115, 115, 115);
+}
+
+.deg{
+    font: 12rem Montserrat;
+    font-weight: 100;
+   
+    -webkit-text-stroke: 0.5px rgb(233, 240, 244);
+    color: #a5ebef
+}
+.deg:hover{
+    -webkit-text-stroke: 0.5px rgb(114, 198, 219);
+    color: #afe0f5
+}
+.loc{
+    font: 3.5rem Montserrat;
+    font-weight: 100;
+    color: rgb(115, 115, 115);
+}
+
+.hum{
+    font: 1rem Montserrat;
+    font-weight: 400;
+    font-style: bolder;
+ 
+}
+.whi{
+    background: linear-gradient(to right, #ffffff, #c3f4f7);
+}
+
+
+
+div.borderglow {
+    color: black;
+    box-shadow: 0 5px 15px #afe0f5;
+   
+  }
+
+  .borderglow:hover{
+    box-shadow: 0 4px 8px 0 #afe0f5, 0px 6px 15px 0 #4fbdec;
+  }
+
+
+  .aro{
+    font: 1.7rem Montserrat;
+    font-weight: 400;
+    
+  background: -webkit-linear-gradient(#67b4ef, #127e9c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+
+  .ser{
+    width: 100px;
+  }
+  .but{
+  
+  }
